@@ -2,7 +2,7 @@
     "runtime": {
         "majorVersion": "8"
     },
-    "command": "java -jar EmployeeRESTApp-1.0.jar",
+    "command": "java -jar SpringBootRest-1.0.jar",
     "release": {
         "version": "1.0",
         "build": "24",
