@@ -6,7 +6,7 @@ import java.util.Properties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages= { "com.desai.test.springboot.rest", "com.desai.test.springboot.rest.controller" })
 public class App {
 	// Get PORT and HOST from Environment or set default
 	public static final Optional<String> host;
