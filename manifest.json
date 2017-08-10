@@ -8,5 +8,5 @@
         "build": "24",
         "commit": "1A2B345"
     },
-    "notes": "Employee Spring Boot Web Service"
+    "notes": "Spring Boot REST Application"
 }
